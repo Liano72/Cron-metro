@@ -1,5 +1,5 @@
 # Cronômetro
- * Cronômetro simples possui a função de parar e zerar o timer.
+ * Cronômetro simples possui a função de pausar e zerar o timer.
  * Programa contruido com Javascript, CSS e HTML. 
 <br/><br/>
 <p><b>Cronômetro:<b/><p/>
